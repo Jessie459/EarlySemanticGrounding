@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+/models
+/data/RIS
+/data/instructions_new
+/outputs
+/results
