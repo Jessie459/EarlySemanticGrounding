@@ -7,7 +7,6 @@
 **NeurIPS 2026**
 
 [![arXiv](https://img.shields.io/badge/arXiv-2605.13122-b31b1b.svg)](https://arxiv.org/abs/2605.13122)
-[![NeurIPS 2026](https://img.shields.io/badge/NeurIPS-2026-4b44ce.svg)](https://arxiv.org/abs/2605.13122)
 
 </div>
 
@@ -115,9 +114,7 @@ and [CRIS](https://github.com/DerrickWang005/CRIS.pytorch). We thank the authors
 
 ## License
 
-This project is released under the [MIT License](LICENSE). Code adapted from Step1X-Edit, FLUX, DiffSynth-Studio and
-diffusers remains under the Apache License 2.0, as noted in the file headers. The model weights are
-subject to their own licenses.
+This project is released under the [MIT License](LICENSE).
 
 ## Citation
 
