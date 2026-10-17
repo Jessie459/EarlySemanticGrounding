@@ -6,6 +6,7 @@
 
 **NeurIPS 2026**
 
+[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://jessie459.github.io/EarlySemanticGrounding/)
 [![arXiv](https://img.shields.io/badge/arXiv-2605.13122-b31b1b.svg)](https://arxiv.org/abs/2605.13122)
 
 </div>
